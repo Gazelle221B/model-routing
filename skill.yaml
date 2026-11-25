@@ -1,0 +1,5 @@
+name: model_routing
+title: モデル振り分け
+description: 実装・バグ修正・調査・レビュー・大量生成などの作業を、難易度と種類に応じて外部モデル(Codex / Antigravity / opencodex)へ委任するときの振り分けルール。コードを書く作業に着手する前、レビューを依頼する前、他モデルで直らないバグに当たったときに使う。
+category: Work and knowledge
+include_in_prompt: true
